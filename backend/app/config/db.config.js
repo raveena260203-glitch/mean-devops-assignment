@@ -1,3 +1,3 @@
 module.exports = {
-    url: "mongodb://mongodb:27017/dd_db"
+    url: "mongodb+srv://raveena260203_db_user:Raveena%40123@cluster0.ae2oexc.mongodb.net/dd_db?retryWrites=true&w=majority"
 };
